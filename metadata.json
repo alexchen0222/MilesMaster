@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MilesMaster - Award Flight Comparator",
+  "description": "A sophisticated tool to search and compare award flight availability and mileage requirements across multiple airline loyalty programs using AI-powered search grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
